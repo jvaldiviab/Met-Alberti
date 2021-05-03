@@ -20,7 +20,7 @@ namespace Met_Alberti
         private void FrmAlberti_Load(object sender, EventArgs e)
         {
             cmbGiro.Items.Add("SELECCIONE UNO");
-            cmbGiro.Items.Add("IZQUEIRDA");
+            cmbGiro.Items.Add("IZQUIERDA");
             cmbGiro.Items.Add("DERECHA");
 
             txtMcla.Enabled = false;
